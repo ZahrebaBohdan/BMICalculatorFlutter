@@ -4,9 +4,9 @@
 
 Multi screen app with simple functionality but full-on custom styling. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+[](../../Downloads/BMICalculator.gif)
 
-## What I've learnt
+## What I've learnt!
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.
